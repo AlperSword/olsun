@@ -1,7 +1,7 @@
 baseurl = "https://github.com/AlperSword/olsun.git" # Configure URL. if using gh-pages Mar 20, 2023, 15:35<username>/hugo-
 title = "Ana Sayfa"
 theme = "hugo-universal-theme"
-themesDir = "../.."
+themesDir = "hugo-universal-theme"
 languageCode = "tr-tr"
 # Site language. Available translations in the theme's `/i18n` directory.
 defaultContentLanguage = "tr"
