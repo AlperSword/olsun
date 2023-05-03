@@ -18,6 +18,10 @@ paginate = 10
 
 # not pluralize title pages by default
 pluralizelisttitles = false
+[module]
+  [[module.imports]]
+    path = "github.com/forestryio/hugo-theme-universal"
+
 
 [menu]
 
